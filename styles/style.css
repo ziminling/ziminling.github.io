@@ -1,0 +1,39 @@
+
+a:hover{
+	color:red;
+}
+
+html {
+  font-size: 10px; /* px 意为“像素（pixels）”: 这个基础字体的尺寸现在是10像素  */
+  font-family: placeholder: this should be the rest of the output you got from Google fonts
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #fcfcfc;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #f8715a;
+  
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f2f88b;
+  padding: 0px 20px 20px 20px;
+  border: 2px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
